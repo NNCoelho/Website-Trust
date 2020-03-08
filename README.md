@@ -1,2 +1,2 @@
 # Website-Trust
-HTML5 &amp; CSS3
+Website Desenvolvido em HTML5 & CSS3.
