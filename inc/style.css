@@ -1,0 +1,83 @@
+/* Ficheiro Principal de CSS */
+
+body{
+    background-color: black;
+}
+
+.contentor-global{
+    margin-top: 30px;
+    padding: 50px;
+    background-color: #EFEFEF;
+}
+
+.margem-top-20{margin-top: 20px;}
+
+.contentor-navegacao{ 
+    background-color: rgb(66, 66,66);
+    padding: 20px;
+}
+
+.contentor-navegacao a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px;
+}
+
+.contentor-navegacao a:hover{
+    text-decoration: none;
+    color: yellow;
+}
+
+.texto-navegacao{
+    font-size: 1.2em;
+    padding: 5px;
+}
+
+.barra-branca{
+    background-color: white;
+    padding: 15px;
+}
+
+.imagem-social{
+    background-image: url("../images/img_social.jpg");
+    height: 600px;
+    display: table;
+    width: 100%;
+}
+
+.colocarbotaonofundo{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.botao{
+    font-size: 1.5em;
+    padding: 10px 30px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    white-space: normal;
+}
+
+.espaco-services{
+    padding: 20px 0px;
+}
+
+.espaco-caixas{
+    padding: 20px;
+}
+
+.Titulo-Caixa{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.rodape{
+    color: white;
+    background-color: #282C2F;
+}
+
+.caixa-rodape{
+    padding: 25px;
+}
+
